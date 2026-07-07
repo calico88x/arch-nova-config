@@ -1,0 +1,4 @@
+resolver: systemd-resolved
+service: enabled
+resolv.conf target: ../run/systemd/resolve/stub-resolv.conf
+resolv.conf mode: stub

@@ -1,0 +1,6 @@
+--- Power policy summary ---
+5 min: attempt keyboard backlight off (device currently absent)
+10 min: reduce display brightness
+15 min: lock session and disable display
+30 min: suspend system
+resume: restore brightness and re-enable display

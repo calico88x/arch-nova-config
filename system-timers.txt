@@ -1,0 +1,7 @@
+NEXT                                LEFT LAST                              PASSED UNIT                             ACTIVATES
+Tue 2026-07-07 00:00:00 EDT     1h 18min Mon 2026-07-06 22:40:07 EDT 1min 14s ago shadow.timer                     shadow.service
+Tue 2026-07-07 06:49:41 EDT           8h Mon 2026-07-06 22:40:07 EDT 1min 14s ago man-db.timer                     man-db.service
+Tue 2026-07-07 20:02:52 EDT          21h Thu 2026-05-28 03:05:54 EDT 2h 38min ago systemd-tmpfiles-clean.timer     systemd-tmpfiles-clean.service
+Wed 2026-07-15 00:10:57 EDT 1 week 1 day Mon 2026-07-06 22:40:07 EDT 1min 14s ago archlinux-keyring-wkd-sync.timer archlinux-keyring-wkd-sync.service
+
+4 timers listed.

@@ -1,0 +1,2 @@
+/var/lib/iwd/WIFI_PROFILE_1.psk
+/var/lib/iwd/WIFI_PROFILE_2.psk

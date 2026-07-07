@@ -1,0 +1,5 @@
+install path: /usr/local/bin/devpod
+version: v0.6.15
+sha256: cc50bce09229d5a6d448ac1d4494327f4b8f7a20321e5fcee3bfec1aef0d20c5
+package owner: none
+installation type: manually installed binary

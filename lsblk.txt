@@ -1,0 +1,8 @@
+NAME              PATH                    TYPE  FSTYPE      FSVER      SIZE MOUNTPOINTS UUID                                   PARTUUID
+nvme0n1           /dev/nvme0n1            disk                       476.9G                                                    
+├─nvme0n1p1       /dev/nvme0n1p1          part  vfat        FAT32        1G /boot       F7D3-9D6A                              8b65d95e-bbd4-47fc-a8e6-3200afc2a33e
+└─nvme0n1p2       /dev/nvme0n1p2          part  crypto_LUKS 2        475.9G             d143eaef-37b9-4bf3-aa12-b7cda94ec7b0   ddcdc459-d070-4340-9556-325cd31be091
+  └─NovaVG        /dev/mapper/NovaVG      crypt LVM2_member LVM2 001 475.9G             K7dXQ7-otJC-hasP-uHEx-SPnM-Ftz0-dbcuPc 
+    ├─NovaVG-swap /dev/mapper/NovaVG-swap lvm   swap        1            8G [SWAP]      02bcd475-d2bc-4676-97ce-554fa439c1d2   
+    ├─NovaVG-root /dev/mapper/NovaVG-root lvm   ext4        1.0         32G /           f4dfc532-650b-40a2-b9f9-d216a003ecf5   
+    └─NovaVG-home /dev/mapper/NovaVG-home lvm   ext4        1.0      435.9G /home       edeb8fff-7eb8-4a67-89cf-ae0e8d546d8e   

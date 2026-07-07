@@ -1,0 +1,5 @@
+cron implementation: not installed
+user crontab: none
+system cron jobs: none
+systemd system timers: see system-timers.txt
+systemd user timers: see user-timers.txt

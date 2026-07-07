@@ -1,0 +1,9 @@
+package: docker 1:29.5.2-1
+service enabled: enabled
+service active: active
+docker group: docker:x:966:nova
+client version: 29.5.2
+server version: 29.5.2
+storage driver: overlayfs
+docker root directory: /var/lib/docker
+custom daemon configuration: none

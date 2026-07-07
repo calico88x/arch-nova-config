@@ -1,0 +1,4 @@
+NetworkManager: not installed
+NetworkManager.service: inactive
+nmcli connections: not applicable
+network stack: iwd + systemd-networkd + systemd-resolved

@@ -1,0 +1,6 @@
+login method: manual TTY login
+display manager: none
+desktop session: Hyprland
+startup method: manual
+startup command: Hyprland
+autologin: disabled

@@ -1,0 +1,10 @@
+--- User account ---
+nova:x:1000:1000::/home/nova:/usr/bin/bash
+
+--- Group memberships ---
+uid=1000(nova) gid=1000(nova) groups=1000(nova),998(wheel),992(input),966(docker)
+
+--- Relevant group records ---
+wheel:x:998:nova
+input:x:992:nova
+docker:x:966:nova

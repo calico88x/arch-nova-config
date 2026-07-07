@@ -1,0 +1,42 @@
+--- Installed packages ---
+pipewire 1:1.6.7-1
+pipewire-audio 1:1.6.7-1
+pipewire-jack 1:1.6.7-1
+wireplumber 0.5.15-1
+alsa-card-profiles 1:1.6.7-1
+alsa-ucm-conf 1.2.16.1-1
+sof-firmware 2025.12.2-1
+rtkit 0.14-1
+
+--- Audio hardware ---
+ 0 [sofessx8336    ]: sof-essx8336 - sof-essx8336
+                      IDHname-N1-Defaultstring-VOCBook15
+
+--- User services ---
+pipewire.socket          enabled=enabled  active=active
+pipewire.service         enabled=disabled active=active
+wireplumber.service      enabled=enabled  active=active
+
+--- Realtime scheduling ---
+rtkit-daemon.service: active
+
+--- Default devices ---
+Audio
+ ├─ Devices:
+ │      42. Jasper Lake HD Audio                [alsa]
+ │  
+ ├─ Sinks:
+ │      49. Jasper Lake HD Audio HDMI / DisplayPort 3 Output [vol: 1.00]
+ │      50. Jasper Lake HD Audio HDMI / DisplayPort 2 Output [vol: 1.00]
+ │      51. Jasper Lake HD Audio HDMI / DisplayPort 1 Output [vol: 1.00]
+ │  *   52. Jasper Lake HD Audio Speakers       [vol: 0.40]
+ │  
+ ├─ Sources:
+ │  *   53. Jasper Lake HD Audio Digital Microphone [vol: 1.00]
+ │      54. Jasper Lake HD Audio Headset Microphone [vol: 1.00]
+ │  
+ ├─ Filters:
+ │  
+ └─ Streams:
+
+Video

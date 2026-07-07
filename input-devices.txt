@@ -1,0 +1,84 @@
+mice:
+	Mouse at 5567a83a7040:
+		msft0001:00-0911:5288-touchpad
+			default speed: 0.00000
+			scroll factor: -1.00
+
+
+Keyboards:
+	Keyboard at 5567a83a69c0:
+		sof-essx8336-headset
+			rules: r "", m "", l "us", v "", o ""
+			active layout index: 0
+			active keymap: English (US)
+			capsLock: no
+			numLock: no
+			main: no
+	Keyboard at 5567a83b15f0:
+		video-bus
+			rules: r "", m "", l "us", v "", o ""
+			active layout index: 0
+			active keymap: English (US)
+			capsLock: no
+			numLock: no
+			main: no
+	Keyboard at 5567a83ed8c0:
+		intel-hid-events
+			rules: r "", m "", l "us", v "", o ""
+			active layout index: 0
+			active keymap: English (US)
+			capsLock: no
+			numLock: no
+			main: no
+	Keyboard at 5567a842a0e0:
+		intel-hid-5-button-array
+			rules: r "", m "", l "us", v "", o ""
+			active layout index: 0
+			active keymap: English (US)
+			capsLock: no
+			numLock: no
+			main: no
+	Keyboard at 5567a846e000:
+		power-button
+			rules: r "", m "", l "us", v "", o ""
+			active layout index: 0
+			active keymap: English (US)
+			capsLock: no
+			numLock: no
+			main: no
+	Keyboard at 5567a84ae0d0:
+		power-button-1
+			rules: r "", m "", l "us", v "", o ""
+			active layout index: 0
+			active keymap: English (US)
+			capsLock: no
+			numLock: no
+			main: no
+	Keyboard at 5567a84edd10:
+		sleep-button
+			rules: r "", m "", l "us", v "", o ""
+			active layout index: 0
+			active keymap: English (US)
+			capsLock: no
+			numLock: no
+			main: no
+	Keyboard at 5567a85290f0:
+		at-translated-set-2-keyboard
+			rules: r "", m "", l "us", v "", o ""
+			active layout index: 0
+			active keymap: English (US)
+			capsLock: no
+			numLock: no
+			main: yes
+
+
+Tablets:
+
+
+Touch:
+
+
+Switches:
+	Switch Device at 5567a7540880:
+		Lid Switch
+

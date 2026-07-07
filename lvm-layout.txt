@@ -1,0 +1,13 @@
+--- Physical volumes ---
+  PV                 PSize   PFree VG    
+  /dev/mapper/NovaVG 475.92g    0g NovaVG
+
+--- Volume groups ---
+  VG     VSize   VFree #PV #LV
+  NovaVG 475.92g    0g   1   3
+
+--- Logical volumes ---
+  LV   VG     LSize   Path            
+  home NovaVG 435.92g /dev/NovaVG/home
+  root NovaVG  32.00g /dev/NovaVG/root
+  swap NovaVG   8.00g /dev/NovaVG/swap

@@ -1,0 +1,16 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/mapper/NovaVG-root
+UUID=f4dfc532-650b-40a2-b9f9-d216a003ecf5	/         	ext4      	rw,relatime	0 1
+
+# /dev/mapper/NovaVG-home
+UUID=edeb8fff-7eb8-4a67-89cf-ae0e8d546d8e	/home     	ext4      	rw,relatime	0 2
+
+# /dev/nvme0n1p1
+UUID=F7D3-9D6A      	/boot     	vfat      	rw,relatime,fmask=0022,dmask=0022,codepage=437,iocharset=ascii,shortname=mixed,utf8,errors=remount-ro	0 2
+
+# /dev/mapper/NovaVG-swap
+UUID=02bcd475-d2bc-4676-97ce-554fa439c1d2	none      	swap      	defaults  	0 0
+

@@ -1,0 +1,5 @@
+primary wireless interface: wlan0
+addressing method: DHCP
+private IPv4 address: dynamic
+Docker bridge: docker0
+Docker bridge subnet: default private bridge

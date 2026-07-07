@@ -1,0 +1,5 @@
+timezone: America/Detroit
+localtime target: /usr/share/zoneinfo/America/Detroit
+ntp enabled: yes
+ntp synchronized: yes
+ntp service: systemd-timesyncd

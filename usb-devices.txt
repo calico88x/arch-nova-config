@@ -1,0 +1,9 @@
+USB inventory source: /sys/bus/usb/devices
+usbutils/lsusb: not installed
+
+32e6:9005  icSpring  icspring camera
+05e3:0608  unknown  USB2.0 Hub
+0bda:0129  Generic  USB2.0-CRW
+8087:0a2a  unknown  unknown
+1d6b:0002  Linux 7.0.12-arch1-1 xhci-hcd  xHCI Host Controller
+1d6b:0003  Linux 7.0.12-arch1-1 xhci-hcd  xHCI Host Controller

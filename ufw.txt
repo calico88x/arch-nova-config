@@ -1,0 +1,10 @@
+status: active
+logging: low
+default incoming: deny
+default outgoing: allow
+default routed: deny
+new application profiles: skip
+
+--- Rules ---
+[ 1] Anywhere                   ALLOW IN    192.168.0.0/16            
+

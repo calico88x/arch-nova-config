@@ -1,0 +1,50 @@
+# Private keys and credentials
+*.key
+*.pem
+*.p12
+*.pfx
+id_*
+!id_*.pub
+*.psk
+
+# Shell and application history
+.bash_history
+.zsh_history
+.lesshst
+.viminfo
+*history*
+cmd-history
+
+# Browser state
+Cookies*
+History*
+Favicons*
+Visited\ Links
+sessions/
+webengine/
+
+# Temporary and backup files
+*.bak
+*.backup
+*.old
+*.tmp
+*.swp
+*.swo
+*~
+*.pacnew
+*.pacsave
+*.pacorig
+
+# Runtime and cache data
+cache/
+Cache/
+logs/
+*.log
+*.journal
+state
+lastNag
+lastVersion
+
+# OS/editor metadata
+.DS_Store
+Thumbs.db

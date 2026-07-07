@@ -1,0 +1,40 @@
+--- Hyprland monitors ---
+Monitor eDP-1 (ID 0):
+	1920x1080@60.00000 at 0x0
+	description: BOE 0x150D
+	make: BOE
+	model: 0x150D
+	physical size (mm): 340x190
+	serial: 
+	active workspace: 1 (1)
+	special workspace: 0 ()
+	reserved: 0 24 0 0
+	scale: 1.50
+	transform: 0
+	focused: yes
+	dpmsStatus: 1
+	vrr: false
+	solitary: 0
+	solitaryBlockedBy: windowed mode,missing candidate
+	activelyTearing: false
+	tearingBlockedBy: next frame is not torn,user settings,missing candidate
+	directScanoutTo: 0
+	directScanoutBlockedBy: user settings,missing candidate
+	disabled: false
+	currentFormat: XRGB8888
+	mirrorOf: none
+	availableModes: 1920x1080@60.00Hz 
+	colorManagementPreset: srgb
+	sdrBrightness: 1.00
+	sdrSaturation: 1.00
+	sdrMinLuminance: 0.20
+	sdrMaxLuminance: 80
+	hardwareCursorsInUse: true
+
+
+
+--- DRM connectors ---
+card1-DP-1: disconnected
+card1-eDP-1: connected
+card1-HDMI-A-1: disconnected
+card1-HDMI-A-2: disconnected

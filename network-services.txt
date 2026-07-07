@@ -1,0 +1,6 @@
+dbus-org.freedesktop.network1.service        alias           -
+systemd-network-generator.service            enabled         enabled
+systemd-networkd-persistent-storage.service  static          -
+systemd-networkd-wait-online.service         enabled         enabled
+systemd-networkd-wait-online@.service        disabled        disabled
+systemd-networkd.service                     enabled         enabled

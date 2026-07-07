@@ -1,0 +1,3 @@
+wireplumber.service   enabled enabled
+p11-kit-server.socket enabled enabled
+pipewire.socket       enabled enabled
