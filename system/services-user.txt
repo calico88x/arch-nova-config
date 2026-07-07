@@ -1,0 +1,3 @@
+p11-kit-server.socket
+pipewire.socket
+wireplumber.service

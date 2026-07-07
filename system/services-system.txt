@@ -1,0 +1,6 @@
+docker.service
+iwd.service
+sshd.service
+systemd-networkd.service
+systemd-resolved.service
+ufw.service
